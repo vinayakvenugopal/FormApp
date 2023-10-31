@@ -1,0 +1,26 @@
+/* FormList.css */
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+  }
+  
+  thead {
+    background-color: #007BFF;
+    color: #fff;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
